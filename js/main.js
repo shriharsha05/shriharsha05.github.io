@@ -298,12 +298,12 @@
         });
 
         //Google Mapss
-        $("#map").googleMap({
-            zoom: 16 // Google Map ZOOM. You can change this value
-        });
-        $("#map").addMarker({
-            address: "", // My addresss
-        });
+        // $("#map").googleMap({
+        //     zoom: 16 // Google Map ZOOM. You can change this value
+        // });
+        // $("#map").addMarker({
+        //     address: "Muliyala Jogimoole", // My addresss
+        // });
     });
 
 })(jQuery);
