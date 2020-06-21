@@ -1,15 +1,16 @@
 { 
     "name": "Shriharsha M - Portfolio",
+    "short_name": "SHM",
     "display": "standalone",
     "description": "Shriharsha M - Portfolio",
     "icons": [
       {
-        "src": "/img/icons/Icon-512.png",
+        "src": "img/icons/Icon-512.png",
         "type": "image/webp",
         "sizes": "512x512"
       },
       {
-        "src": "/img/icons/Icon-192.png",
+        "src": "img/icons/Icon-192.png",
         "type": "image/webp",
         "sizes": "192x192"
       }
